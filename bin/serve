@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bundle exec jekyll s --future --incremental --livereload
