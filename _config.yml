@@ -1,22 +1,20 @@
 # Site settings
-title: Fernando Blat
+title: fernando.blat.es
 description: >-
-  Blog
+  Blog y notas personales
 lang: es-ES
 timezone: Europe/Madrid
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/avatar.png
 repo: https://github.com/ferblape/blog.git
 mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Fernando Blat
-  bio: >-
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+  bio: - blog y notas personales 
   username: ferblape
   email: fernando@blat.es
-  avatar: /assets/img/avatar.jpg
+  avatar: /assets/img/avatar.png
 
 # Url settings
 url: "https://fernando.blat.es"

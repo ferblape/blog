@@ -1,11 +1,12 @@
 ---
+layout: receta
 title: Butter chicken
 date: 2020-05-03
 tags: [recetas]
 description: Receta de butter chicken
 dificultad: fácil
 tiempo: 30 minutos
-image: http://recetas.blat.es/uploads/recipe/image/43/Archivo_07-05-16_14_31_08.jpeg
+image: Butter-Chicken-RECIPE-IMAGE-81.jpg
 cantidad: 4 personas
 ingredientes:
   - nombre: pollo
@@ -37,6 +38,7 @@ fuente:
 - Incorporamos el jengibre y el ajo
 - Un minuto después incorporamos las especias
 - Añadimos el tomate triturado y dejamos que se seque mucho hasta hacer una pasta
-- Incorporamos la nata
-- Dejamos que se caliente y añadimos el pollo
+- Sacamos del fuego, trituramos para que quede una pasta (igual hay que añadir agua)
+- Devolvemos al fuego e encorporamos la nata
+- Dejamos que se caliente y añadimos el pollo con su jugo
 - Servir con arroz

@@ -3,10 +3,10 @@ layout: default
 home: true
 ---
 
-<h4 class="posts-item-note">Recent Posts</h4>
+<h4 class="posts-item-note">Posts</h4>
 {% for post in site.posts %}
 <article class="post-item">
-  <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+  <span class="post-item-date">{{ post.date | date: "%d %b %Y" }}</span>
   <h4 class="post-item-title">
     <a href="{{ post.url }}">{{ post.title | escape }}</a>
   </h4>
